@@ -10,8 +10,6 @@
     tools:context=".MainActivity">
 
 
-
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -21,5 +19,40 @@
         android:textStyle="bold"
         android:textColor="@color/blue"
         />
+
+    <EditText
+        android:id="@+id/editTextDiminutivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/texto_qual_o_seu_diminutivo"
+        android:textSize="18sp"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <Button
+        android:id="@+id/bt_mostra_curriculo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_botao"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textView_mostra_diminutivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/textView_mostra_curriculo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_curriculo"
+        android:visibility="gone"
+        />
+
 
 </LinearLayout>

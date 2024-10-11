@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">My Bio</string>
-    <string name="saudacao">Olá Mundo!</string>
+    <string name="saudacao">José Casimiro Pereira!</string>
+    <string name="texto_botao">mostrar currículo</string>
+    <string name="texto_curriculo"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum pretium dignissim. Nulla luctus tellus ligula, a interdum quam sodales eu. Nunc suscipit diam est, nec pharetra purus ultricies sit amet. Nulla aliquam congue libero, at consequat diam congue nec. In quis arcu iaculis eros ultrices semper. Nunc eget eros et purus vestibulum aliquet ac quis sapien. Pellentesque ipsum orci, tristique et lorem vel, vestibulum feugiat ipsum. Nullam justo arcu, mollis eget ligula quis, porta imperdiet sem. Praesent fermentum ligula nec quam iaculis, at vestibulum ipsum aliquet. Duis lacinia non massa sodales lacinia. In hac habitasse platea dictumst.
+
+Praesent consequat tortor eu ante convallis, nec luctus purus lobortis. Integer consectetur enim quis est euismod, ut fringilla orci tempus. Sed tempus feugiat velit. Donec nibh erat, imperdiet et justo a, placerat ultricies nisi. Suspendisse id metus nec tortor rhoncus consequat vel vel justo. Fusce semper tellus ligula, eget molestie elit rutrum sagittis. Mauris consectetur quis eros at venenatis. Phasellus nibh justo, varius feugiat ex nec, commodo fermentum felis. Sed placerat nisl at lectus hendrerit, quis lacinia metus tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed lorem eu quam consectetur fringilla non eu sapien.
+
+Morbi at suscipit dui, sed tincidunt ante. Nam tincidunt maximus diam vel vehicula. Quisque auctor arcu volutpat risus tempor aliquam. Proin vitae augue id eros pellentesque eleifend. Nulla ac euismod ex. Aliquam libero sem, scelerisque vulputate justo eu, consequat efficitur magna. Praesent sed luctus mauris. Nam sed lectus quis dolor ullamcorper interdum. Sed cursus est erat, ac suscipit massa fermentum eget. </string>
+    <string name="texto_qual_o_seu_diminutivo">qual o seu diminutivo?</string>
+
+
 </resources>
